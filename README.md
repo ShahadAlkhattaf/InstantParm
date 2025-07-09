@@ -15,4 +15,4 @@ To further enhance the user experience, InstancePharm includes features such as:
 By integrating these tools, the app promotes better healthcare management and aims to make medical support more convenient and accessible — especially for those who may face difficulties visiting a physical pharmacy.
 
 ## Check it out!
-You can see figma design right here: **[design]([https://shahadalkhattaf.github.io/Portfolio/](https://www.figma.com/proto/CC9q6JXY7P54GMseCPfBbX/Untitled?node-id=9-295&node-type=frame&t=zw8bhSPqDN3ztWfu-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=9%3A295))**
+You can see figma design right here:  **[Figma-Design](https://www.figma.com/proto/CC9q6JXY7P54GMseCPfBbX/Untitled?node-id=9-295&node-type=frame&t=zw8bhSPqDN3ztWfu-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=9%3A295)**
